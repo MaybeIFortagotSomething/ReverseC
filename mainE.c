@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-const char* check = "ouicestunfakeauth";
+const char* check = "===== Password Annexe =====";
 
 int main(int argc, char* argv[])
 {
